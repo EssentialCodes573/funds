@@ -1,0 +1,26 @@
+body {
+    font: Times New Roman, Times, serif;
+    text-align: center;
+    letter-spacing: .5em;
+    top: 15%;
+    color: rgb(0, 0, o, .5);
+    background: linear-gradient(to right, red, yellow);
+    text-transform: uppercase;
+}
+
+h1 {
+    color: rgb(0, 0, 0, .5);
+    font: 600 3.5 "Roboto", sans seriff; 
+    text-align: center;
+    width: 100%;
+    text-transform: uppercase;
+
+}
+
+h2 {
+    color:  rgb(0, 0, 0,0.5);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 0.02cm;
+    
+}
